@@ -1,3 +1,10 @@
 demo content
-apple 
+apple
 bat
+
+//steps followed....
+
+1.create one branch called rebase_1 and rebase_
+2. wrote dummy files in both of the branch
+3.pushed it into repository
+4.git rebase rebase_ rebase_1 - to rebase_1 with rebase_1
