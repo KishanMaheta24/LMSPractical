@@ -1,0 +1,2 @@
+this will be only file in merge branch
+2nd.txt will be added after merge

@@ -1,0 +1,7 @@
+This file will be merged in other branch
+steps followed:
+
+1.create another branch to merge it with this branch
+2.git checkout merge -  goto the branch where we want to merge another branch 
+3.git merge toBeMerged - merging toBeMerged branch with 'merge branch'
+
