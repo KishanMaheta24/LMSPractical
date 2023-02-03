@@ -7,5 +7,5 @@ bat
 1.create one branch called rebase_1 and rebase_
 2. wrote dummy files in both of the branch
 3.pushed it into repository
-resolving conflict
+4.resolving conflict
 
